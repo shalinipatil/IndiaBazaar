@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl width="100%" hight="200px">Images/Spicies.jpg</ImageUrl>
+    <width>100%</width>
+    <hight>50px</hight>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText> Spicies </AlternateText>
+    <impression>20</impression>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/Sweets.jpg</ImageUrl>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText>Sweets</AlternateText>
+    <impression>20</impression>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>Images/Sweets1.jpg</ImageUrl>
+    <NavigateUrl>Sweets1</NavigateUrl>
+    <AlternateText>Order roses and flowers</AlternateText>
+    <impression>20</impression>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/Snacks.jpg</ImageUrl>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText>Snacks</AlternateText>
+    <impression>20</impression>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/dryfruit.jpg</ImageUrl>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText>Dryfruits</AlternateText>
+    <impression>20</impression>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/diwali-lanterns.jpg</ImageUrl>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText>Diwali-Lanterns</AlternateText>
+    <impression>20</impression>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/Dhupsticks.jpg</ImageUrl>
+    <NavigateUrl>Home.aspx</NavigateUrl>
+    <AlternateText>Dhupsticks</AlternateText>
+    <impression>20</impression>
+  </Ad>
+
+</Advertisements>
