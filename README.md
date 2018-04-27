@@ -33,20 +33,20 @@
         <ul id="nav">
             <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/Home.aspx" runat="server">Home</a></li>
              
-            <li><a href="~/Pages/OrderProduct.aspx" runat="server">Shop</a></li>
+            <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/OrderProduct.aspx" runat="server">Shop</a></li>
             <li><a href="#" runat="server">AboutUs</a>
             <ul>
-                    <li><a id="A1" href="~/Pages/AboutUs.aspx" runat="server">AboutUs</a></li>
-                   <li><a id="A2" href="~/Pages/ContactUs.aspx" runat="server">ContactUs</a></li>
+                    <li><a id="A1" href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/AboutUs.aspx" runat="server">AboutUs</a></li>
+                   <li><a id="A2" href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/ContactUs.aspx" runat="server">ContactUs</a></li>
                    
 
                 </ul>
                 </li>
             <li><a href="#">Management</a>
                 <ul>
-                    <li><a href="~/Pages/ProductOverview.aspx" runat="server">Products</a></li>
-                   <li><a href="~/Pages/Account/Admin.aspx" runat="server">Users</a></li>
-                   <li><a href="~/Pages/Orders.aspx" runat="server">Orders</a></li>
+                    <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/ProductOverview.aspx" runat="server">Products</a></li>
+                   <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/Account/Admin.aspx" runat="server">Users</a></li>
+                   <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/Orders.aspx" runat="server">Orders</a></li>
 
                 </ul>
             </li>
