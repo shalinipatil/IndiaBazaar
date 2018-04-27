@@ -31,7 +31,7 @@
     <div id="wrapper">
         <div id="navigation">
         <ul id="nav">
-            <li><a href="~/Pages/Home.aspx" runat="server">Home</a></li>
+            <li><a href="https://github.com/shalinipatil/IndiaBazaar/blob/master/Pages/Home.aspx" runat="server">Home</a></li>
              
             <li><a href="~/Pages/OrderProduct.aspx" runat="server">Shop</a></li>
             <li><a href="#" runat="server">AboutUs</a>
